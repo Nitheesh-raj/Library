@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    font-size: 40px;
+    color: rgba(29, 211, 99, 0.801);
+}
+.head1{
+    background-color: aqua;
+    
+}
+.table{
+    background-color: bisque;
+    padding: 10px;
+    font-family: Arial;
+}
+.button{
+    padding-left: 100px;
+}
